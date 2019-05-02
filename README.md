@@ -11,7 +11,9 @@
 ### Goals
 - Assembling the components and collection of data from various sensors
 - Using Kaggle.com to visualization and machine learning
-
+### Requirements
+- All personal projects should have different configurations
+- If you want us(machine learning lab.) to purchase some devices, please contact Mr. Kim in the lab.  in advance. However, you should find the proper devices by yourself. 
 
 # Proposal here
 https://docs.google.com/spreadsheets/d/18NI90i7PhXWTcnd7HhNMU0B47YhqTZtZgBXDg5_FnbE/edit?usp=sharing
